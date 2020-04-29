@@ -1,3 +1,4 @@
+// Dokumentation Einfügen
 function CreateTableFromJSON(ReqData) {
 
   fetch(ReqData).then(response => {
